@@ -1,7 +1,7 @@
 #ifndef TRABALHADOR_H
 #define TRABALHADOR_H
 
-#include <iostream>
+#include <string>
 
 class Trabalhador{
     public:
