@@ -5,7 +5,7 @@
 
 class Trabalhador{
     public:
-    //Construtor
+    //Construtores
         Trabalhador();
         Trabalhador(std::string nome, float salario);
     //Metodos get
